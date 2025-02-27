@@ -1,0 +1,23 @@
+{
+  "name": "com.cohort.unity",
+  "displayName": "Cohort",
+  "description": "Unity Conversable-AI Agents package for the Unity that enables developers to quickly use and develop LLM-based AI agents inside of their experiences.",
+  "keywords": [],
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/atx-barnes/com.cohort.unity.git"
+  },
+  "author": {
+    "name": "Jackson Barnes",
+    "url": "https://jackson-barnes-portfolio.notion.site/"
+  },
+  "samples": [
+    {
+      "displayName": "Basic Agent Orchestration",
+      "description": "Contains basic agent orchestration with example scene using OpenAI",
+      "path": "Samples~/BasicAgentOrchestration"
+    }
+  ]
+}

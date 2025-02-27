@@ -1,0 +1,16 @@
+{
+    "name": "Cohort.Agents.Conversable",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e929f244f97864f8fbeafe3e088d88ea"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
