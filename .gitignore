@@ -75,3 +75,5 @@ _ReSharper.Caches
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 .DS_Store
+
+*.mcp.json
